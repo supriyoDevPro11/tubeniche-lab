@@ -59,6 +59,8 @@ npm run build && npm start   # production
 
 ## 📦 Deploy
 
+**Live:** https://tubeniche-lab.vercel.app
+
 ```bash
 npm i -g vercel
 vercel --prod
